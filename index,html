@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Summer Study - Class 11 Notes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌞 Summer Study</h1>
+    <p>Class 11 CBSE Notes</p>
+  </header>
+
+  <main>
+    <h2>Subjects</h2>
+    <ul class="subject-links">
+      <li><a href="physics.html">Physics</a></li>
+      <li><a href="chemistry.html">Chemistry</a></li>
+      <li><a href="maths.html">Mathematics</a></li>
+      <li><a href="cs.html">Computer Science</a></li>
+      <li><a href="english.html">English</a></li>
+      <li><a href="handwritten.html">Handwritten Notes</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 Summer Study | CBSE Class 11</p>
+  </footer>
+</body>
+</html>
